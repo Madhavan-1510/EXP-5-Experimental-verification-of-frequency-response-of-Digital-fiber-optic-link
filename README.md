@@ -67,27 +67,20 @@ The photodiode converts the detected light into a photocurrent. With the aid of 
 ---
 
 
-## BLOCK DIAGRAM
-
-*(Insert block diagram here)*
-
----
-
 ## TABULATION  
 **Transmission through Digital Link**
 
-| Frequency (Hz) | Output Signal Amplitude (Vo) | Gain = Vo/Vi | Gain in dB |
-|----------------|------------------------------|--------------|------------|
-|                |                              |              |            |
+<img width="737" height="1280" alt="image" src="https://github.com/user-attachments/assets/3eb48a7a-da33-4f7c-a975-4299cd159d45" />
 
 ---
 
 ## MODEL GRAPH
 
-*(Insert model graph here)*
+![photo_2026-03-22_18-22-50 (2)](https://github.com/user-attachments/assets/2ad907ba-e287-44bd-a18c-aca5b42175ef)
+
 
 ---
 
 ## RESULT
 
-*(Summarize observations and conclusions here)*
+Thus the relationship between input and received signal of a 660nm fiber optic cable using digital link is verified successfully
