@@ -33,6 +33,11 @@ The photodiode converts the detected light into a photocurrent. With the aid of 
 
 ---
 
+## BLOCK DIAGRAM
+<img width="904" height="529" alt="image" src="https://github.com/user-attachments/assets/ba10d276-5120-444c-8600-8f2a8e0eb539" />
+
+---
+
 ## PROCEDURE
 
 -	Connect the power supply with proper polarity to the kit link-B and switch it on.
